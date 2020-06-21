@@ -1,0 +1,1 @@
+# ACER-Veriton-D430-D10
