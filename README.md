@@ -1,6 +1,6 @@
 # Hackintosh Clover EFI for ACER Veriton D430 6th Gen
 ```
-Model              ACER Veriton D430 D10
+Model              ACER Veriton D430
 Mainboard          Intel H110
 CPU                Intel Core i5-6400
 Memory             12G DDR4 2133MHz (8G+4G)
