@@ -1,4 +1,4 @@
-# Hackintosh Clover EFI for ACER Veriton D430 6th Gen
+# Hackintosh Clover EFI for ACER Veriton D430 Gen6
 ```
 Model              ACER Veriton D430
 Mainboard          Intel H110
