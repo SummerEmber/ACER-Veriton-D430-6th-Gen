@@ -10,6 +10,6 @@ Ethernet           Realtek RTL8111H
 Wi-Fi              DELL DW1560
 Monitor            FHD 1920x1080 144Hz
 BIOS Version       R01-A4 07/14/2016
-macOS Version      Catalina 10.15.5
+macOS Version      Catalina 10.15.6
 Clover Version     5118
 ```
