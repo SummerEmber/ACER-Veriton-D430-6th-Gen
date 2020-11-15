@@ -1,4 +1,4 @@
-# Hackintosh Clover EFI for ACER Veriton D430 Gen6
+# Hackintosh OpenCore EFI for ACER Veriton D430 Gen6
 ```
 Model              ACER Veriton D430
 Mainboard          Intel H110
@@ -10,6 +10,6 @@ Ethernet           Realtek RTL8111H
 Wi-Fi              DELL DW1560
 Monitor            FHD 1920x1080 144Hz
 BIOS Version       R01-A4 07/14/2016
-macOS Version      Catalina 10.15.7
-Clover Version     5122
+macOS Version      Big Sur 11.0.1
+OpenCore Version   0.6.3  
 ```
